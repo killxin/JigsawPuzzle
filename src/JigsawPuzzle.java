@@ -29,7 +29,7 @@ class BlankPoint {
 
 public class JigsawPuzzle extends JFrame implements KeyListener {
 	/**
-	 * »¬¿éÆ´Í¼ÓÎÏ·µÄ×î¼ò°æ
+	 * Simple jigsaw puzzle games
 	 */
 	private static final long serialVersionUID = -2213526858608694002L;
 
